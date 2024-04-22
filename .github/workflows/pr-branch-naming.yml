@@ -1,5 +1,5 @@
 name: PR branch naming
-on: [workflow_call]
+on: [pull_request]
 
 jobs:
   branch-naming-rules:

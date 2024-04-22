@@ -1,5 +1,8 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+  "postOfficeBox": "123",
+  "streetAddress": "456 Main St",
+  "locality": "Cityville",
+  "region": "State",
+  "postalCode": "12345",
+  "countryName": "Country"
 }
